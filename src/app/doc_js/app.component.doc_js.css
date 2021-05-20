@@ -1,0 +1,57 @@
+h3{
+    color: rgb(184, 184, 101);
+    text-align: center;
+}
+
+
+
+.border{
+    border: 2px groove black;
+}
+
+.porcent{
+    width:100%;
+    text-align: center;
+}
+.derecha{
+    display: inline;
+    
+    float: left;
+    
+}
+.izquierda{
+    display: inline;
+    
+    float: right;
+}
+.html5{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color:rgb(231, 106, 34);
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    
+}
+.html5:hover{
+    color:black;
+    background-color: rgb(245, 148, 104);
+}
+
+.css{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color:rgb(34, 136, 231);
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    
+}
+.css:hover{
+    color:black;
+    background-color: rgb(51, 201, 238);
+}

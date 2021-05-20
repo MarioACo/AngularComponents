@@ -1,0 +1,29 @@
+h3{
+    color: rgb(0, 119, 255);
+    text-align: center;
+}
+
+p{
+    
+}
+
+.border{
+    border: 2px groove black;
+}
+
+
+button{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color:rgb(207, 106, 48);
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    
+}
+button:hover{
+    color:black;
+    background-color: rgb(223, 162, 32);
+}

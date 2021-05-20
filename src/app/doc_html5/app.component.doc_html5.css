@@ -1,0 +1,57 @@
+h3{
+    color: rgb(218, 97, 27);
+    text-align: center;
+}
+
+
+
+.border{
+    border: 2px groove black;
+}
+
+.porcent{
+    width:100%;
+    text-align: center;
+}
+.derecha{
+    display: inline;
+    
+    float: left;
+    
+}
+.izquierda{
+    display: inline;
+    
+    float: right;
+}
+.js{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color:rgb(232, 248, 12);
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    
+}
+.js:hover{
+    color:black;
+    background-color: rgb(216, 207, 83);
+}
+
+.ts{
+    text-decoration: none;
+    padding: 10px;
+    font-weight: 600;
+    font-size: 20px;
+    color: black;
+    background-color:rgb(0, 130, 252);
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+    
+}
+.ts:hover{
+    color:black;
+    background-color: rgb(20, 174, 212);
+}
